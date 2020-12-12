@@ -1,0 +1,7 @@
+models:
+  Customer:
+    name: string
+    ci: string
+    phone: string
+    email: string
+    blocked: boolean

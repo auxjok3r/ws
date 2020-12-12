@@ -1,0 +1,6 @@
+created:
+    - database/factories/CustomerFactory.php
+    - database/migrations/2020_12_11_212930_create_customers_table.php
+    - app/Models/Customer.php
+models:
+    Customer: { name: string, ci: string, phone: string, email: string }
